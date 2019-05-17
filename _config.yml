@@ -1,0 +1,12 @@
+author: Pablo Melchor
+description: "Hi, I'm Pablo Melchor. Here are a few things (some trivial, some less so) I have found to be useful as of today."
+header_pages:
+  - _pages/now.md
+  - _pages/contact.md
+remote_theme: jekyll/minima
+url: https://pablomelchor.com
+timezone: Europe/Madrid
+title: Pablo Melchor
+include: ["_pages"]
+quote: You become what you repeat every day
+
